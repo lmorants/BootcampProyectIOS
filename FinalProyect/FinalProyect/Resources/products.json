@@ -1,0 +1,52 @@
+[
+    {
+        "name": "Tarjeta Gráfica",
+        "image" : "producto1",
+        "make": "Nvidia",
+        "model": "GeForce GTX 1660",
+        "price" : "S/1699"
+    },
+    {
+        "name": "Teclado Gamer",
+        "image" : "producto2",
+        "make": "Antryx",
+        "model": "KM300F",
+        "price" : "S/250"
+    },
+    {
+        "name": "Mouse Gamer",
+        "image" : "producto3",
+        "make": "Redragon",
+        "model": "Invader M719",
+        "price" : "S/180"
+    },
+    {
+        "name": "Monitor Gamer",
+        "image" : "producto4",
+        "make": "Teros",
+        "model": "LS24AG320NLXPE",
+        "price" : "S/250"
+    },
+    {
+        "name": "Parlante Gamer",
+        "image" : "producto5",
+        "make": "JBL PartyBox",
+        "model": "JBLPARTYBOXGOBBR",
+        "price" : "S/1050"
+    },
+    {
+        "name": "Laptop Gamer",
+        "image" : "producto6",
+        "make": "Asus",
+        "model": "M1502IA-EJ025W",
+        "price" : "S/1899"
+    },
+    {
+        "name": "Gabinete LED",
+        "image" : "producto7",
+        "make": "Cooler Master",
+        "model": "YUHHUJ",
+        "price" : "S/50"
+    }
+    
+]
